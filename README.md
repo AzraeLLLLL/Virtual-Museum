@@ -77,8 +77,6 @@ Each artwork is analyzed using three categories:
 - HTML5
 - CSS3
 - JavaScript
-- Responsive web design
-- Scroll and hover interactions
 
 ## Folder Structure
 
